@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "sport_nhl",
+    "type": "movie",
+    "name": "NHL Hockey Night • Live Games",
+    "poster": "https://githubusercontent.com",
+    "background": "https://githubusercontent.com",
+    "releaseInfo": "LIVE NHL GAMES • CLICK A MATCHUP TO SEARCH",
+    "genres": ["Ice Hockey", "NHL", "Live Sports"],
+    "description": "🏒 Select any game on the right to automatically search your TommyStream Live TV channels for that matchup!"
+  }
+}
