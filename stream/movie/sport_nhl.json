@@ -1,0 +1,39 @@
+{
+  "streams": [
+    {
+      "name": "🏒 5:00 PM MT",
+      "title": "Columbus Blue Jackets @ New Jersey Devils (Search Live TV)",
+      "externalUrl": "stremio:///search?search=New%20Jersey%20Devils"
+    },
+    {
+      "name": "🏒 5:30 PM MT",
+      "title": "Calgary Flames @ Ottawa Senators (Search Live TV)",
+      "externalUrl": "stremio:///search?search=Calgary%20Flames"
+    },
+    {
+      "name": "🏒 5:30 PM MT",
+      "title": "Toronto Maple Leafs @ NY Islanders (Search Live TV)",
+      "externalUrl": "stremio:///search?search=Toronto%20Maple%20Leafs"
+    },
+    {
+      "name": "🏒 5:30 PM MT",
+      "title": "LA Kings @ Montreal Canadiens (Search Live TV)",
+      "externalUrl": "stremio:///search?search=Montreal%20Canadiens"
+    },
+    {
+      "name": "🏒 5:30 PM MT",
+      "title": "Utah Mammoth @ Winnipeg Jets (Search Live TV)",
+      "externalUrl": "stremio:///search?search=Winnipeg%20Jets"
+    },
+    {
+      "name": "🏒 7:40 PM MT",
+      "title": "Anaheim Ducks @ Seattle Kraken (Search Live TV)",
+      "externalUrl": "stremio:///search?search=Seattle%20Kraken"
+    },
+    {
+      "name": "🏒 8:00 PM MT",
+      "title": "Minnesota Wild @ San Jose Sharks (Search Live TV)",
+      "externalUrl": "stremio:///search?search=San%20Jose%20Sharks"
+    }
+  ]
+}
