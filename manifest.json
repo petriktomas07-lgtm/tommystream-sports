@@ -1,0 +1,16 @@
+{
+  "id": "com.tommystream.sports",
+  "version": "1.0.0",
+  "name": "TommyStream Sports",
+  "description": "Live NHL & Sports Game Hubs",
+  "resources": ["catalog", "meta", "stream"],
+  "types": ["movie"],
+  "idPrefixes": ["sport_"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "sports_hub",
+      "name": "🏒 TONIGHT'S SPORTS & NHL"
+    }
+  ]
+}
